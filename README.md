@@ -16,5 +16,5 @@ Step 4. Use [2] to get the evaluation result.
 
 
 Reference:
-[1] Johnson AE, Pollard TJ, Shen L, et al. MIMIC-III, a freely accessible critical care database. Sci Data 2016; 3: 160035
+[1] Johnson AE, Pollard TJ, Shen L, et al. MIMIC-III, a freely accessible critical care database. Sci Data 2016; 3: 160035    
 [2] https://github.com/kaivamannam/clinicalnlp-ade/blob/master/misc/Track2-evaluate-ver4.py
